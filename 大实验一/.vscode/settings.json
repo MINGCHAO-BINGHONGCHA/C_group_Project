@@ -1,0 +1,8 @@
+{
+    "editor.codeActionsOnSave": {
+        
+    },
+    "plantuml.jarArgs": [
+        "-DPLANTUML_LIMIT_SIZE=8129"
+    ]
+}
