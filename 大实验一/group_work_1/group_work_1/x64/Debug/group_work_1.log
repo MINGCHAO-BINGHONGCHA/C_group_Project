@@ -1,0 +1,5 @@
+﻿  file.c
+F:\c\group_work_1\file.c(9,21): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+F:\c\group_work_1\file.c(95,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\c\group_work_1\file.c(124,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  group_work_1.vcxproj -> F:\c\group_work_1\x64\Debug\group_work_1.exe
